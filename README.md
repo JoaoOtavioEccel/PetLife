@@ -17,4 +17,4 @@ A **PetLife** é um projeto de um site simples de uma veterinária desenvolvida 
 
 1. Clone este repositório em sua máquina local usando o comando:
    ```bash
-   git clone https://github.com/seuusuario/PetLife.git
+   git clone https://github.com/JoaoOtavioEccel/PetLife.git
